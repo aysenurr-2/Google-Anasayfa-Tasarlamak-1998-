@@ -1,0 +1,50 @@
+.boxx {
+   margin-left: 500px;
+   margin-right:200px;
+}
+
+
+.container {
+    background-color: rgb(229, 226, 226);
+    width: px;
+    height:90px;
+    padding-left:40%;
+    margin-left:0%
+}
+
+.box  {
+background-color: rgb(120, 225, 189);
+width:450px;
+height:100px;
+float:left;
+padding-left:60px;
+margin-top: 3px;
+margin-right:3px;
+
+}
+
+.box1 {
+    background-color: rgb(113, 207, 176);
+    width:250px;
+    height:100px;
+    float: left;
+    padding-left: 30px;
+    margin-top: 3px;
+    
+}
+
+.box2 {
+    background-color: rgb(82, 184, 150);
+    width:599px;
+    height:100px;
+    float: right;
+    padding-left:30px;
+    margin-top:3px ;
+    
+}
+
+p {
+    margin-left: 570px;
+    margin-right: 140px;
+margin-top:90px;
+}
